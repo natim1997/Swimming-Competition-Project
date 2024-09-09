@@ -1,0 +1,115 @@
+1
+world championship
+Israel
+Tel Aviv
+19/3/2023
+1
+Freestyle
+50m
+1
+Final
+3
+Ziv Adler
+39
+Cyprus
+Main
+Avi Miller
+35
+Spain
+Spingboard
+Yossi Cohen
+30
+USA
+Side
+8
+avi
+20
+222
+gal deri
+29
+100
+itay chabra
+24
+138
+ameen
+23
+111
+sapir
+23
+361
+neta bm
+24
+333
+netanel michel
+27
+279
+afik
+20
+250
+3
+England
+ENG
+13
+200
+42
+Daniel Gerbi
+25
+9
+Spain
+1
+4
+netanel michel
+27
+279
+itay chabra
+24
+138
+neta bm
+24
+333
+gal deri
+29
+100
+France
+FRA
+100
+20
+300
+ben aharony
+32
+8
+sweeden
+6
+3
+afik
+20
+250
+ronen
+22
+833
+ameen
+23
+111
+Argentina
+ARG
+4
+8
+1
+amit
+23
+6
+Yemen
+9
+4
+avi
+20
+222
+idan
+30
+127
+sapir
+23
+361
+nir
+25
+638
